@@ -94,4 +94,23 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 
 **Tableau Link** ---- https://public.tableau.com/views/EVSalesBreakdownYearCategory_17479802017150/EVSalesBreakdownYearCategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+                                                    ## 📊 Power BI Visualizations
+### 📈 Actual vs Forecasted EV Sales (2025–2030)
+![Actual   Forcasted](https://github.com/user-attachments/assets/94d88d7f-1892-4305-8405-69ac0cacda34)
+
+                                                    
+                                                  ## 📈 Dynamic Power BI Dashboards
+### EV Sales Performance & Forecast (India)
+
+
+
+  ![EV_Sales Dashboard](https://github.com/user-attachments/assets/7639e9c3-04d4-41ec-9855-f9c4015c388d)
+                       
+
+
+
+
+
+
+                                                    
 
