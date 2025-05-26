@@ -32,21 +32,22 @@ This project explores Electric Vehicle (EV) adoption trends in India using Pytho
 
 EV-Sales-India/
 ├── data/
-│   └── Electric Vehicle Sales by State in India.csv   # Raw dataset
+│   └── Electric Vehicle Sales by State in India.csv         # Raw dataset
 ├── scripts/
-│   └── ev_sales_analysis.py                           # Your Python analysis and modeling script
+│   └── ev_sales_analysis.py                                 # Python analysis and modeling script
 ├── forecast/
-│   └── EV_Sales_Forecast_2025_2030.csv               # Forecast CSV output from Python script
-│   └── Feature_Importance_RF.csv                      # Optional feature importance export (if you want)
+│   ├── EV_Sales_Forecast_2025_2030.csv                     # Forecast CSV output
+│   └── Feature_Importance_RF.csv                            # Optional feature importance export
 ├── dashboards/
-│   ├── tableau_line_chart.twbx                        # Tableau workbook file
-│   └── powerbi_dashboard.pbix                         # Power BI dashboard file
+│   ├── tableau_line_chart.twbx                              # Tableau workbook file
+│   └── powerbi_dashboard.pbix                               # Power BI dashboard file
 ├── screenshots/
-│   ├── tableau_ev_sales_trend.png                     # Screenshots of Tableau visualizations
-│   ├── powerbi_overview.png                            # Screenshots of Power BI dashboards
-│   └── powerbi_actual_vs_forecast.png                  # Screenshots of Power BI forecasts
-├── README.md                                          # Project overview and instructions
-└── requirements.txt                                   # Python dependencies (pandas, sklearn, seaborn, etc.)
+│   ├── tableau_ev_sales_trend.png                           # Tableau visualization screenshots
+│   ├── powerbi_overview.png                                 # Power BI dashboard screenshots
+│   └── powerbi_actual_vs_forecast.png                       # Power BI forecasts screenshots
+├── README.md                                               # Project overview and instructions
+└── requirements.txt                                        # Python dependencies
+
 
 
 
