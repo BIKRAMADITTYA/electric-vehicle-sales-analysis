@@ -73,7 +73,13 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 
 ![EV_Sales by vehicle catagory](https://github.com/user-attachments/assets/63739480-1f68-46ea-8da6-a0edc8cfc50a)
 
-###
+### Ev_sales Forecast in india(2025-20230)
+
+
+![Ev_sales Forecast in india(2025-20230)](https://github.com/user-attachments/assets/714c7109-1608-4fb3-895a-0a838b79d22f)
+
+### Top 10 importance![Top 10 importances(Random Forcast)](https://github.com/user-attachments/assets/caff263d-c60f-45a7-8e37-897cf7160020)
+s(Random Forcast)
 
 
 
