@@ -58,8 +58,10 @@ EV-Sales-India/
 🔗 Download
 The dataset is now available [Electric Vehicle Sales by State in India.csv](https://github.com/user-attachments/files/20436519/Electric.Vehicle.Sales.by.State.in.India.csv)
 
-##🔑Results
-**Ev_Sales by state over the Years**
+## 🔑 Results
+
+### EV Sales by State Over the Years
+
 ![Ev_Sales by state over the Years](https://github.com/user-attachments/assets/9aa12f06-0b83-4aea-81ba-078f82b3c456)
 
 
