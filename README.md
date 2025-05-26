@@ -60,6 +60,11 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 
 ## ✅ Results
 
+### Missing Values before filling(in my case 0 missing value)
+
+
+![Missing Values before filling](https://github.com/user-attachments/assets/1b1e18da-fffa-4b90-8253-7343c330af9d)
+
 ### EV Sales by State Over the Years
 
 ![Ev_Sales by state over the Years](https://github.com/user-attachments/assets/9aa12f06-0b83-4aea-81ba-078f82b3c456)
@@ -67,6 +72,8 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 ### EV_Sales by vehicle catagory
 
 ![EV_Sales by vehicle catagory](https://github.com/user-attachments/assets/63739480-1f68-46ea-8da6-a0edc8cfc50a)
+
+###
 
 
 
