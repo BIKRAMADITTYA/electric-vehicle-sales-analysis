@@ -80,8 +80,15 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 
 ### Top 10 importance![Top 10 importances(Random Forcast)
 
-](https://github.com/user-attachments/assets/caff263d-c60f-45a7-8e37-897cf7160020)
 
 
+
+![Top 10 importances(Random Forcast)](https://github.com/user-attachments/assets/fd031ca5-0605-4a63-8c87-b1a98762a40a)
+
+                                                      ## 📊 Tableau Visualizations
+
+### EV Sales Breakdown- Year&Catagory
+
+https://public.tableau.com/views/EVSalesBreakdownYearCategory_17479802017150/EVSalesBreakdownYearCategory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
