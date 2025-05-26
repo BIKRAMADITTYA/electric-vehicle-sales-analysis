@@ -31,22 +31,23 @@ This project explores Electric Vehicle (EV) adoption trends in India using Pytho
 ## 📁 Project Structure
 
 EV-Sales-India/
-├── data/
-│   └── Electric Vehicle Sales by State in India.csv         # Raw dataset
-├── scripts/
-│   └── ev_sales_analysis.py                                 # Python analysis and modeling script
-├── forecast/
-│   ├── EV_Sales_Forecast_2025_2030.csv                     # Forecast CSV output
-│   └── Feature_Importance_RF.csv                            # Optional feature importance export
-├── dashboards/
-│   ├── tableau_line_chart.twbx                              # Tableau workbook file
-│   └── powerbi_dashboard.pbix                               # Power BI dashboard file
-├── screenshots/
-│   ├── tableau_ev_sales_trend.png                           # Tableau visualization screenshots
-│   ├── powerbi_overview.png                                 # Power BI dashboard screenshots
-│   └── powerbi_actual_vs_forecast.png                       # Power BI forecasts screenshots
-├── README.md                                               # Project overview and instructions
-└── requirements.txt                                        # Python dependencies
+  data/
+    Electric Vehicle Sales by State in India.csv         # Raw dataset
+  scripts/
+    ev_sales_analysis.py                                 # Python analysis and modeling script
+  forecast/
+    EV_Sales_Forecast_2025_2030.csv                     # Forecast CSV output
+    Feature_Importance_RF.csv                            # Optional feature importance export
+  dashboards/
+    tableau_line_chart.twbx                              # Tableau workbook file
+    powerbi_dashboard.pbix                               # Power BI dashboard file
+  screenshots/
+    tableau_ev_sales_trend.png                           # Tableau visualization screenshots
+    powerbi_overview.png                                 # Power BI dashboard screenshots
+    powerbi_actual_vs_forecast.png                       # Power BI forecasts screenshots
+  README.md                                             # Project overview and instructions
+  requirements.txt                                      # Python dependencies
+
 
 
 
