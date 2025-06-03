@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicle Sales Analysis & Forecast – India (2014–2030)
+# Electric Vehicle Sales Analysis & Forecast – India (2014–2030)
 
 This project explores Electric Vehicle (EV) adoption trends in India using Python for data analysis and forecasting, Tableau for interactive visualizations, and Power BI for professional dashboarding. It aims to uncover EV market insights, predict future growth, and support decision-making through clean, data-driven storytelling.
 
