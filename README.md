@@ -29,7 +29,7 @@ This project explores Electric Vehicle (EV) adoption trends in India using Pytho
 ---
 
 ## 📁 Project Structure
-
+<pre>
 EV-Sales-India/
   data/
     Electric Vehicle Sales by State in India.csv         # Raw dataset
@@ -48,7 +48,7 @@ EV-Sales-India/
   README.md                                             # Project overview and instructions
   requirements.txt                                      # Python dependencies
 
-
+<pre>
 
 
 
